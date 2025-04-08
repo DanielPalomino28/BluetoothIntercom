@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bluetooth Intercom</string>
+    <string name="scan_devices">Buscar dispositivos</string>
+    <string name="paired_devices">Dispositivos emparejados</string>
+    <string name="available_devices">Dispositivos disponibles</string>
+    <string name="connect">Conectar</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="call">Llamar</string>
+    <string name="end_call">Colgar</string>
+    <string name="accept_call">Aceptar</string>
+    <string name="reject_call">Rechazar</string>
+    <string name="calling">Llamando...</string>
+    <string name="incoming_call">Llamada entrante de %1$s</string>
+    <string name="on_call">En llamada con %1$s</string>
+    <string name="call_ended">Llamada finalizada</string>
+    <string name="bluetooth_not_supported">Bluetooth no soportado en este dispositivo</string>
+    <string name="bluetooth_not_enabled">Por favor, activa Bluetooth para usar esta aplicación</string>
+    <string name="permission_denied">Los permisos necesarios no fueron concedidos</string>
+    <string name="connected_to">Conectado a: %1$s</string>
+    <string name="connection_failed">Conexión fallida</string>
+    <string name="start_talking">Iniciar conversación</string>
+    <string name="stop_talking">Detener conversación</string>
+    <string name="talking">Hablando...</string>
+    <string name="listening">Escuchando...</string>
+</resources> 
